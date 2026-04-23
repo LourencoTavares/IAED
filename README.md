@@ -1,6 +1,6 @@
 # Sistema de Gestão de Vacinas (IAED)
 
-Projeto desenvolvido no âmbito da unidade curricular de **Introdução aos Algoritmos e Estruturas de Dados (2024/2025)**.
+Projeto desenvolvido no âmbito da UC de **Introdução aos Algoritmos e Estruturas de Dados (2024/2025)**.
 
 ## Descrição
 
