@@ -60,7 +60,6 @@ Desenvolver um programa em linguagem C que:
 
 ## Exemplo de utilização
 
-``
 - ``c A0C0 31-7-2025 210 malaria``
 - ``l``
 - ``a "Joao Miguel" malaria``
