@@ -56,12 +56,13 @@ Desenvolver um programa em linguagem C que:
 
 ``gcc -O3 -Wall -Wextra -Werror -Wno-unused-result -o proj *.c`` para compilar e de seguida, ``./proj`` para executar.
 
+---
+
 ## Exemplo de utilização
 
 ``
-c A0C0 31-7-2025 210 malaria
-l
-a "Joao Miguel" malaria
-u
-q
-``
+- ``c A0C0 31-7-2025 210 malaria``
+- ``l``
+- ``a "Joao Miguel" malaria``
+- ``u``
+- ``q``
